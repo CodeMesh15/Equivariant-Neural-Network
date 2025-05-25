@@ -61,3 +61,4 @@ cd equivariant-nn
 <pre>
   python experiments/train_mnist_rot.py
 </pre>
+I'm adding a few of my notes on group theory just to provide a mathematical foundation over what we are doing apart from the codes, but it is highly recommended repo is viewed by people who already have a good understanding of group theory. Although CS grads would anyway find their way out even if they don't know the mathematical background of this repo.
