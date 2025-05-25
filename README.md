@@ -21,7 +21,7 @@ Many datasets have inherent symmetries — like images rotated in space, molecul
 ---
 
 ## 📂 Project Structure
-
+<pre>
 ```bash
 equivariant-nn/
 ├── equivariant_nn/
@@ -48,3 +48,4 @@ equivariant-nn/
 ├── requirements.txt
 ├── setup.py
 └── README.md
+  
