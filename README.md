@@ -22,7 +22,6 @@ Many datasets have inherent symmetries — like images rotated in space, molecul
 
 ## 📂 Project Structure
 <pre>
-```bash
 equivariant-nn/
 ├── equivariant_nn/
 │   ├── layers/
@@ -48,4 +47,17 @@ equivariant-nn/
 ├── requirements.txt
 ├── setup.py
 └── README.md
-  
+</pre>
+1. Clone the repo
+<pre>
+git clone https://github.com/your-username/equivariant-nn.git
+cd equivariant-nn
+</pre>
+3. Install dependencies
+<pre>
+  pip install -r requirements.txt
+</pre>
+4. Run a demo (e.g., RotMNIST)
+<pre>
+  python experiments/train_mnist_rot.py
+</pre>
